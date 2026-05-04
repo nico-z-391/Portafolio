@@ -13,6 +13,13 @@ Repositorio índice con todos mis proyectos de desarrollo backend y machine lear
 
 ---
 
+## Deep Learning
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [Proyecto DL: Diario Emocional Inteligente](https://github.com/nico-z-391/Proyecto-Deep-Learning-Diario_vida) | Sistema de análisis emocional y bienestar mental con dos modelos MLP en PyTorch, integración de APIs climáticas, de geolocalización y traducción de idiomas inglés-español, siguiendo metodología CRISP-DM | Python, PyTorch, scikit-learn, pandas |
+
+---
+
 ## Backend con Django
 
 | Proyecto | Descripción | Tecnologías |
