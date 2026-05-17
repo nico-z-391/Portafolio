@@ -35,3 +35,10 @@ Repositorio índice con todos mis proyectos de desarrollo backend y machine lear
 |----------|-------------|-------------|
 | [Proyecto DRF: API Proyectos](https://github.com/nico-z-391/Proyecto-DRF-API-Proyectos) | API REST para gestión de ideas de proyectos con operaciones CRUD completas | Python, Django, DRF |
 | [Proyecto DRF: API Libros](https://github.com/nico-z-391/Proyecto-DRF-API-Libros) | API REST para gestión y almacenamiento de libros con operaciones CRUD completas | Python, Django, DRF |
+
+---
+
+## APIs REST con FastAPI
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [Proyecto FastAPI: API Recetas](https://github.com/nico-z-391/FastAPI-API-Recetas) | API REST para gestión de recetas de cocina con operaciones CRUD completas y conexión a PostgreSQL | Python, FastAPI, SQLModel, PostgreSQL |
