@@ -4,6 +4,13 @@ Repositorio índice con todos mis proyectos de desarrollo backend y machine lear
 
 ---
 
+## Full Stack - Machine Learning: Portafolio
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [Proyecto Full Stack - Machine Learning](https://github.com/nico-z-391/Portafolio-ML) | Portafolio full-stack con dos modelos de Machine Learning y dos modelos de redes neuronales integrados: predictor de resultados de fútbol y analizador emocional con datos climáticos en conjunto a React. | React (Frontend), Django (Orquestador + Auth JWT), FastAPI (Modelos ML) |
+
+---
+
 ## Machine Learning
 
 | Proyecto | Descripción | Tecnologías |
