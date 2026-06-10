@@ -49,3 +49,10 @@ Repositorio índice con todos mis proyectos de desarrollo backend y machine lear
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [Proyecto FastAPI: API Recetas](https://github.com/nico-z-391/FastAPI-API-Recetas) | API REST para gestión de recetas de cocina con operaciones CRUD completas y conexión a PostgreSQL | Python, FastAPI, SQLModel, PostgreSQL |
+
+---
+
+### APIs REST con Nodejs/Express
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [Proyecto Express: API Usuarios](https://github.com/nico-z-391/API-REst-usuarios) | API REST para gestión de usuarios con operaciones CRUD completas y conexión a PostgreSQL | Typescript, Nodejs/express, Prisma 7, bcrypt, JWT, dotenv, PostgreSQL |
