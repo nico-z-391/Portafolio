@@ -17,6 +17,7 @@ Repositorio índice con todos mis proyectos de desarrollo backend y machine lear
 |----------|-------------|-------------|
 | [Proyecto ML: Banco Monopoly](https://github.com/nico-z-391/Proyecto-ML-Banco-Monopoly) | Modelos de regresión, clasificación y clustering sobre datos financieros de clientes bancarios siguiendo metodología CRISP-DM | Python, scikit-learn, pandas |
 | [Proyecto ML: Predicciones Fútbol](https://github.com/nico-z-391/Proyecto-ML-Predicciones-futbol) | Sistema de predicción de resultados y marcadores de partidos internacionales con foco en el Mundial 2026. Arquitectura en cascada con 3 modelos | Python, LightGBM, XGBoost, scikit-learn |
+| [Proyecto ML: Crypto Pipeline](https://github.com/nico-z-391/crypto-pipeline) | Pipeline completo de extracción, transformación y predicción de precios de criptomonedas, combinando prácticas de Data Engineering y Machine Learning.| Python, pandas, pyarrow, requests, scikit-learn, LightGBM, psycopg2, python-dotenv, joblib |
 
 ---
 
