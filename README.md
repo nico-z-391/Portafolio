@@ -33,7 +33,7 @@ Repositorio índice con todos mis proyectos de desarrollo backend y machine lear
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [Proyecto Django: CRUD de Tareas](https://github.com/nico-z-391/Proyecto-Django-Crud-Tareas) | Aplicación web de gestión de tareas personales con autenticación de usuarios y deploy en Render | Python, Django, PostgreSQL |
-| [Proyecto Django: Tienda de Libros](https://github.com/nico-z-391/Proyecto-Django-Tienda-de-Libros) | Tienda online de libros con catálogo, buscador, carrito de compras y tema claro/oscuro y autenticación de usuarios | Python, Django, SQLite |
+| [Proyecto Django: BiblioLibro API](https://github.com/nico-z-391/BiblioLibro) | API REST para gestión de libros, autores y reseñas con relaciones entre tablas (FK), autenticación JWT y permisos a nivel de objeto. | Django, Django REST Framework, SimpleJWT, SQLite |
 
 ---
 
